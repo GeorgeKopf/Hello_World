@@ -11,5 +11,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("This is the time.");
+        System.out.println("This is the record of the time.");
     }
 }
