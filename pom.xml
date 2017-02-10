@@ -5,7 +5,7 @@
   <groupId>com.kopf.DevOps</groupId>
   <artifactId>Hello_World</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>Hello_World</name>
   <url>http://maven.apache.org</url>
