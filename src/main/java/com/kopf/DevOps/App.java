@@ -15,6 +15,6 @@ public class App
         System.out.println("Oh Superman!");
         System.out.println("Oh George!");
         System.out.println("Oh Mom and Dad!");
-        System.out.println("Oh Mom and Dad!");
+        System.out.println("Oh Mom and Dad! Ah Ah Ah Ah!");
     }
 }
